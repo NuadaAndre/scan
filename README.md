@@ -1,7 +1,7 @@
 # scan
 scan payload
 
-使用方法lib中 python2 main.py -h<br/>
+使用方法lib中 python main.py -h<br/>
 ——————————————————————————————————
 
 参数<br/>
