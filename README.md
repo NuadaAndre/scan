@@ -5,10 +5,10 @@ scan payload
 ——————————————————————————————————
 
 参数<br/>
-target(need):<br/>
-  -u URLS      -u URL| -u  URLFILE<br/>
-  -r POCFILE  a file | a directory<br/>
+目标 （必选）:<br/>
+  -u URLS     一个url 或者一个url文件 <br/>
+  -r POCFILE  一个poc文件 或者 一个poc目录 <br/>
   <br/>
-  other(select):<br/>
-  -t THREAD   -t 30 thread number(default 30)<br/>
-  -o OUT      -u URL| -u  URLFILE<br/>
+其他（可选）:<br/>
+  -t THREAD  线程 默认30 <br/>
+  -o OUT     一个路径 保存结果 <br/>
